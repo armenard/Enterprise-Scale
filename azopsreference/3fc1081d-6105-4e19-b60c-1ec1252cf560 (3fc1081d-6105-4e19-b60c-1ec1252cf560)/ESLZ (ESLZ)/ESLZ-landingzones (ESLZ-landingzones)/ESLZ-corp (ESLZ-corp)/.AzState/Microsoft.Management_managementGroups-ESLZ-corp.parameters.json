@@ -98,6 +98,20 @@
             "Name": "bdf75515-4068-4c91-b2f1-ccfe33cd67fe",
             "DisplayName": "kn-corplz50",
             "Children": null
+          },
+          {
+            "Type": "/subscriptions",
+            "Id": "/subscriptions/7fa73a3b-79b1-48a3-80cc-1b3891df627d",
+            "Name": "7fa73a3b-79b1-48a3-80cc-1b3891df627d",
+            "DisplayName": "kn-corplz25",
+            "Children": null
+          },
+          {
+            "Type": "/subscriptions",
+            "Id": "/subscriptions/d35200b8-20f1-472a-bc7e-8ffb0d1d8fd5",
+            "Name": "d35200b8-20f1-472a-bc7e-8ffb0d1d8fd5",
+            "DisplayName": "kerowlan-es-lz001",
+            "Children": null
           }
         ]
       }

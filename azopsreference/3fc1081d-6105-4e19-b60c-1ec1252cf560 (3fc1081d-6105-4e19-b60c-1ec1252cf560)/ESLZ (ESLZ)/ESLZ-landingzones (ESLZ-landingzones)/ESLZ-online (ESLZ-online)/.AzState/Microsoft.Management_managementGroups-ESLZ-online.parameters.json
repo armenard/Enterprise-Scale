@@ -87,9 +87,23 @@
           },
           {
             "Type": "/subscriptions",
-            "Id": "/subscriptions/d2c0b4ce-4cb7-40f1-bea8-382453887df7",
-            "Name": "d2c0b4ce-4cb7-40f1-bea8-382453887df7",
-            "DisplayName": "hjs-sub01",
+            "Id": "/subscriptions/5ce12e58-3572-40bc-a5a6-5a4d984b8d51",
+            "Name": "5ce12e58-3572-40bc-a5a6-5a4d984b8d51",
+            "DisplayName": "kn-online-retail",
+            "Children": null
+          },
+          {
+            "Type": "/subscriptions",
+            "Id": "/subscriptions/9083da34-c4d7-4d52-a30d-0efbd34c1210",
+            "Name": "9083da34-c4d7-4d52-a30d-0efbd34c1210",
+            "DisplayName": "kn-online-retail3",
+            "Children": null
+          },
+          {
+            "Type": "/subscriptions",
+            "Id": "/subscriptions/c7555e5f-5853-4eb9-b2bb-d36c4a35f50e",
+            "Name": "c7555e5f-5853-4eb9-b2bb-d36c4a35f50e",
+            "DisplayName": "kn-retail-13",
             "Children": null
           }
         ]
